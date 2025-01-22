@@ -1,6 +1,6 @@
 # ECE 695 CUDA Programming Part 1
 
-## Professor: Tim Rogers <br> TA: Ni Kang
+## Professor: T. N. Vijaykumar <br> TA: Ni Kang
 
 ## Due on Saturday, Feburary 8 at 11:59 PM ET (02/09 at 04:59 UTC)
 ## Introduction
