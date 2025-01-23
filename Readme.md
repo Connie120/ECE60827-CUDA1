@@ -182,7 +182,7 @@ Before you start writing and building code, the appropriate development toolkits
 `This process MUST be repeated every time you login and in every new terminal instance`. We will load the gcc, CUDA and CMake modules to help us with building and executing our application(s).
 
 ```bash
-module load gcc cuda cmake
+module load gcc/11.4.1 cuda
 ```
 
 ## Project Organization

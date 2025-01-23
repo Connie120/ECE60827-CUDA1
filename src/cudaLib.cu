@@ -79,6 +79,7 @@ double estimatePi(uint64_t generateThreadCount, uint64_t sampleSize,
 	
 	double approxPi = 0;
 
+	//      Insert code here
 	std::cout << "Sneaky, you are ...\n";
 	std::cout << "Compute pi, you must!\n";
 	return approxPi;
